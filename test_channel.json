@@ -5,11 +5,11 @@
   "menu": [
     {
       "title": "Film",
-      "link": "https://github.com/MikeKOD/ingordichannel/FILM/film.json",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/Immagini/Film.jpg",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/update/FILM/film.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/Immagini/Film.jpg",
       "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"},
       "submenu": {
-        "saga":{"title":"filtro con file description", "description":"https://github.com/MikeKOD/ingordichannel/blob/update/TEATRO/description.json"}
+        "saga":{"title":"filtro con file description", "description":"https://raw.githubusercontent.com/MikeKOD/ingordichannel/update/TEATRO/description.json"}
     }
     },
     
