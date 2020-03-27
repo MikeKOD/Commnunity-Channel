@@ -1,0 +1,49 @@
+{
+  "channel_name": "Test Channel",
+  "fanart": "",
+  "thumbnail": "",
+  "menu": [
+    {
+      "title": "Film",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "submenu": {
+        "saga":{"title":"filtro con file description", "description":"/description.json"}
+    }
+    },
+    {
+      "title": "Film",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "submenu": {
+        "saga":{"title":"filtro con json incorporato",
+          "description":{
+            "Marvel Cinematic Universe":{
+              "thumbnail":"https://images-eu.ssl-images-amazon.com/images/I/51n4AILg-JL.jpg",
+              "fanart":"https://images.everyeye.it/img-notizie/marvel-cinematic-universe-fan-creato-trama-perfetta-fase-5-v3-406844.jpg",
+              "plot":"Il Marvel Cinematic Universe, conosciuto anche con l'acronimo MCU, è un media franchise incentrato su una serie di film di supereroi prodotti dai Marvel Studios e basati sui personaggi apparsi nelle pubblicazioni della Marvel Comics. Il franchise comprende anche serie televisive, cortometraggi, serie digitali e fumetti. Come accade nell'Universo Marvel dei fumetti, i film e gli altri media appartenenti a questo franchise condividono l'ambientazione e alcuni personaggi, nonché alcuni elementi della trama che fanno da filo conduttore tra di essi. "
+            },
+            "Il cavaliere oscuro":{
+              "thumbnail":"https://sentireascoltare.com/wp-content/uploads/2012/11/movie_225.jpg",
+              "fanart":"https://www.cinematographe.it/wp-content/uploads/2018/07/dark-knight-8.jpg",
+              "plot":"La trilogia del cavaliere oscuro (The Dark Knight Trilogy) è una trilogia di film diretta da Christopher Nolan, con protagonista Batman, supereroe della DC Comics. Composta da Batman Begins (2005), Il cavaliere oscuro (2008) e Il cavaliere oscuro - Il ritorno (2012), la serie è stata un successo di critica e di botteghino. Mentre il primo film ha incassato al botteghino quasi 375 milioni di dollari, sia il secondo che il terzo film hanno guadagnato 1 miliardo di dollari. Ad oggi, la trilogia è considerata non solo come una delle migliori opere del genere supereroistico, ma anche come una delle migliori trilogie della storia del cinema."
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Film",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "link":"/saga_menu.json",
+      "submenu":{"filter":{"title":"Filtro con Menu", "url":"/saga_menu.json"}}
+    },
+    {
+      "title": "Film Filtro con Menu",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "link":"/saga_menu.json"
+    }
+  ]
+}

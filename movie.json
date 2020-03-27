@@ -1,0 +1,92 @@
+{
+  "movies_list": [
+    {
+      "title": "Iron Man",
+      "year": "2008",
+      "saga": "Marvel Cinematic Universe",
+      "director": "Jon Favreau",
+      "qualcosa": "4 Star",
+      "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges", "Terrence Howard", "Leslie Bibb", "Shaun Toub", "Faran Tahir", "Clark Gregg", "Jon Favreau"],
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:073615352ccb9f27e62e37d304d76f9d39b387dd&dn=Go+Kart+%282020+ITA%29%5BPRiME%5D%5BWEBRip-XviD-Ac3+5.1%5D&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+          "quality":"SD"
+        },
+        {
+          "url": "magnet:?xt=urn:btih:7bf1ac85ccc9b2f4d1d228aaf5cb8c18f8720530&dn=Passaggio+di+notte-Night+passage+%281957%29+ITA-ENG+Ac3+2.0+BDRip+1080p+H264+%5BArMor%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "L'incredibile Hulk",
+      "year": "2008",
+      "saga": "Marvel Cinematic Universe",
+      "director": "Louis Leterrier",
+      "qualcosa": "3.5 Star",
+      "actors": ["Edward Norton", "Liv Tyler", "Tim Roth", "Tim Blake Nelson", "Ty Burrell", "William Hurt"],
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:1ac178245580263ae6586e9f1dcbf41379e1424c&dn=The.Amazing.Spiderman.2012.iTA.ENG.AC3.Bluray.1080p.Subs.x264-DSS&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Iron Man 2",
+      "year": "2010",
+      "saga": "Marvel Cinematic Universe",
+      "director": "Jon Favreau",
+      "qualcosa": "4 Star",
+      "actors": ["Robert Downey Jr.","Gwyneth Paltrow","Don Cheadle","Scarlett Johansson","Sam Rockwell","Mickey Rourke","Samuel L. Jackson"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Batman Begins",
+      "year": "2005",
+      "saga": "Il cavaliere oscuro",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Liam Neeson","Katie Holmes","Gary Oldman","Cillian Murphy","Tom Wilkinson","Rutger Hauer","Ken Watanabe","Morgan Freeman","Mark Boone Junior","Linus Roache","Larry Holden","Colin McFarlane","Gerard Murphy","Sara Stewart","Richard Brake"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Il cavaliere oscuro",
+      "year": "2008",
+      "saga": "Il cavaliere oscuro",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Gary Oldman","Anne Hathaway","Tom Hardy","Marion Cotillard","Joseph Gordon-Levitt","Morgan Freeman","Ben Mendelsohn","Matthew Modine"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Il cavaliere oscuro - Il ritorno",
+      "year": "2012",
+      "saga": "Il cavaliere oscuro",
+      "director": "Christopher Nolan",
+      "qualcosa": "5 Star",
+      "actors": ["Christian Bale","Michael Caine","Heath Ledger","Gary Oldman","Aaron Eckhart","Maggie Gyllenhaal","Morgan Freeman","Eric Roberts"],
+      "links": [
+        {
+          "url": "",
+          "quality":"HD"
+        }
+      ]
+    }
+  ]
+}
